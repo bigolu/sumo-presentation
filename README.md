@@ -5,4 +5,4 @@ The code from my talk on [SUMO](http://sumo.dlr.de/wiki/Simulation_of_Urban_MObi
 Enter the directory for any given demo and run the `run.sh` or `run.py` script.
 
 ## Thanks
-Made with the help of tutorials found [here](http://sumo.dlr.de/wiki/Tutorials).
+Made with the tutorials found [here](http://sumo.dlr.de/wiki/Tutorials).
